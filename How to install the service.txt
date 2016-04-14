@@ -1,0 +1,7 @@
+Use the Administrator: Developer Command Prompt for VS2015
+
+- Installing the web service:
+C:\> installutil -i C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+
+- Uninstalling thet web service:
+C:\> installutil -u C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe

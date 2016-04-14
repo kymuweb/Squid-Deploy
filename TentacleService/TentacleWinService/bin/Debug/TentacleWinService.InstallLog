@@ -1,0 +1,114 @@
+﻿Installing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing service Tentacle Service for Squid Deploy...
+Service Tentacle Service for Squid Deploy has been successfully installed.
+Creating EventLog source Tentacle Service for Squid Deploy in log Application...
+Committing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing service Tentacle Service for Squid Deploy...
+Creating EventLog source Tentacle Service for Squid Deploy in log Application...
+Rolling back assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Restoring event log to previous state for source Tentacle Service for Squid Deploy.
+Uninstalling assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+Removing EventLog source Tentacle Service for Squid Deploy.
+Service Tentacle Service for Squid Deploy is being removed from the system...
+Service Tentacle Service for Squid Deploy was successfully removed from the system.
+Installing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Installing service Tentacle Service for Squid Deploy...
+Service Tentacle Service for Squid Deploy has been successfully installed.
+Creating EventLog source Tentacle Service for Squid Deploy in log Application...
+Committing assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.InstallLog
+   assemblypath = C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+Removing EventLog source Tentacle Service for Squid Deploy.
+Service Tentacle Service for Squid Deploy is being removed from the system...
+Service Tentacle Service for Squid Deploy was successfully removed from the system.

@@ -1,0 +1,9 @@
+C:\Squid Deploy\Squid Deploy\bin\Debug\Squid Deploy.exe.config
+C:\Squid Deploy\Squid Deploy\bin\Debug\Squid Deploy.exe
+C:\Squid Deploy\Squid Deploy\bin\Debug\Squid Deploy.pdb
+C:\Squid Deploy\Squid Deploy\obj\Debug\Squid Deploy.csprojResolveAssemblyReference.cache
+C:\Squid Deploy\Squid Deploy\obj\Debug\Squid_Deploy.Main.resources
+C:\Squid Deploy\Squid Deploy\obj\Debug\Squid_Deploy.Properties.Resources.resources
+C:\Squid Deploy\Squid Deploy\obj\Debug\Squid Deploy.csproj.GenerateResource.Cache
+C:\Squid Deploy\Squid Deploy\obj\Debug\Squid Deploy.exe
+C:\Squid Deploy\Squid Deploy\obj\Debug\Squid Deploy.pdb

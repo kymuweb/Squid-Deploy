@@ -1,0 +1,4 @@
+C:\TentacleService\TentacleService\bin\Debug\TentacleService.dll
+C:\TentacleService\TentacleService\bin\Debug\TentacleService.pdb
+C:\TentacleService\TentacleService\obj\Debug\TentacleService.dll
+C:\TentacleService\TentacleService\obj\Debug\TentacleService.pdb

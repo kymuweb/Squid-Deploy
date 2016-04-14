@@ -1,0 +1,10 @@
+C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe.config
+C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.exe
+C:\TentacleService\TentacleWinService\bin\Debug\TentacleWinService.pdb
+C:\TentacleService\TentacleWinService\bin\Debug\TentacleService.dll
+C:\TentacleService\TentacleWinService\bin\Debug\TentacleService.pdb
+C:\TentacleService\TentacleWinService\obj\Debug\TentacleWinService.csprojResolveAssemblyReference.cache
+C:\TentacleService\TentacleWinService\obj\Debug\TentacleWinService.ProjectInstaller.resources
+C:\TentacleService\TentacleWinService\obj\Debug\TentacleWinService.csproj.GenerateResource.Cache
+C:\TentacleService\TentacleWinService\obj\Debug\TentacleWinService.exe
+C:\TentacleService\TentacleWinService\obj\Debug\TentacleWinService.pdb

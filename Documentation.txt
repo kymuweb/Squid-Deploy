@@ -1,0 +1,10 @@
+The idea of Squid Deploy was inspired in the tool Octopus Deploy (https://octopus.com/) for source control and code promotion. The Squid client application calls a WCF service hosted in a remote machine, through the 'squid tentacle' Windows service and allow us to execute console commands in the server. I've created this project as an example of how run simple .BAT files through different environments/machines using windows WCF services and a simple client-server architecture. In practice, I promoted code from TFS to different environments/machines as Octopus Deploy would do. In the template available for downloading below, I just run a ipconfig command and show how to pass some parameter through the service. More info. could be found in the following youtube videos;
+
+1. Self hosting a wcf service in console application
+https://www.youtube.com/watch?v=ZdT5JiIoUCw
+
+2. Hosting a wcf service in a windows service
+https://www.youtube.com/watch?v=jnFj4AXn3Eo
+
+3. How to Create a Setup Project to Deploy Windows Services
+https://www.youtube.com/watch?v=cp2aFNtcZfk

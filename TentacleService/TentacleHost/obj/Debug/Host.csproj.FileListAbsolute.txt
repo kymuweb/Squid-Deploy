@@ -1,0 +1,8 @@
+C:\TentacleService\Host\bin\Debug\Host.exe.config
+C:\TentacleService\Host\bin\Debug\Host.exe
+C:\TentacleService\Host\bin\Debug\Host.pdb
+C:\TentacleService\Host\bin\Debug\TentacleService.dll
+C:\TentacleService\Host\bin\Debug\TentacleService.pdb
+C:\TentacleService\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+C:\TentacleService\Host\obj\Debug\Host.exe
+C:\TentacleService\Host\obj\Debug\Host.pdb
